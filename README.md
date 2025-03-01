@@ -12,7 +12,7 @@ I have a more familiar name - "GhostKINGC". To be exact, I'm going to start doin
 
 - **WPF Story Mode (Standard Edition)** October 2023 | has ended
 - **WPF Story Mode (Genesis Edition)** October 2025 | in creation
-- **WPF Window Appearance Scheme ** January 2025 | long-term
+- **WPF Window Appearance Scheme** January 2025 | long-term
 <p>
   <img src="image/image_wAK5tP5npc.png" width="32%"/>
   <img src="image/image_Q39SYyap0p.png" width="32%"/>
@@ -21,8 +21,8 @@ I have a more familiar name - "GhostKINGC". To be exact, I'm going to start doin
 
 <br>
 
-- ** Bulk Solutions ** Mar 2024 | Long-term duration
-- **WPF User Control Interconnection Project ** November 2023 | has ended
+- **Bulk Solutions** Mar 2024 | Long-term duration
+- **WPF User Control Interconnection Project** November 2023 | has ended
 - **C# Language Concepts (old content)** August 2023 | has been stopped
 
 <P>
