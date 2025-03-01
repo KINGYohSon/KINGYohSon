@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/docs-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/docs-中文-red.svg)](README.zh-CN.md)
+
 # Yohson KINGC README CN\_zh
 
 你好，我是金煜城(金耀森)，很高兴认识你！
@@ -9,11 +11,19 @@
 ## 我的系列教程
 
 - **WPF故事模式(标准版)** 2023年10月 | 已完结
-- **散装解决方案** 2024年03月 | 长期持续
-- **WPF用户控件互联项目** 2023年11月 | 已完结
 - **WPF故事模式(创元版)** 2025年10月 | 创作中
 - **WPF窗口外观方案** 2025年01月 | 长期持续
+<img src="image/image_wAK5tP5npc.png" width="32%"/>
+<img src="image/image_Q39SYyap0p.png" width="32%"/>
+<img src="image/image_HToXxcHR8k.png" width="32%"/>
+<br>
+
+- **散装解决方案** 2024年03月 | 长期持续
+- **WPF用户控件互联项目** 2023年11月 | 已完结
 - **C#语言概念(旧内容)** 2023年08月 | 已停更
+<img src="image/image_3SqhPVJEvl.png" width="32%"/>
+<img src="image/image_aviVZ21ZEE.png" width="32%"/>
+<img src="image/image_3XA9FjjalG.png" width="32%"/>
 <br>
 
 ## 关于我
