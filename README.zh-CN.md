@@ -1,6 +1,6 @@
 [![English](https://img.shields.io/badge/docs-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/docs-中文-red.svg)](README.zh-CN.md)
 
-# Yohson KINGC README CN\_zh
+# Yohson KINGC README zh\_CN
 
 你好，我是金煜城(金耀森)，很高兴认识你！
 
