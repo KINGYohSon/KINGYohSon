@@ -13,17 +13,23 @@
 - **WPF故事模式(标准版)** 2023年10月 | 已完结
 - **WPF故事模式(创元版)** 2025年10月 | 创作中
 - **WPF窗口外观方案** 2025年01月 | 长期持续
-<img src="image/image_wAK5tP5npc.png" width="32%"/>
-<img src="image/image_Q39SYyap0p.png" width="32%"/>
-<img src="image/image_HToXxcHR8k.png" width="32%"/>
+<p>
+  <img src="image/image_wAK5tP5npc.png" width="32%"/>
+  <img src="image/image_Q39SYyap0p.png" width="32%"/>
+  <img src="image/image_HToXxcHR8k.png" width="32%"/>
+</p>
+
 <br>
 
 - **散装解决方案** 2024年03月 | 长期持续
 - **WPF用户控件互联项目** 2023年11月 | 已完结
 - **C#语言概念(旧内容)** 2023年08月 | 已停更
-<img src="image/image_3SqhPVJEvl.png" width="32%"/>
-<img src="image/image_aviVZ21ZEE.png" width="32%"/>
-<img src="image/image_3XA9FjjalG.png" width="32%"/>
+
+<P>
+  <img src="image/image_3SqhPVJEvl.png" width="32%"/>
+  <img src="image/image_aviVZ21ZEE.png" width="32%"/>
+  <img src="image/image_3XA9FjjalG.png" width="32%"/>
+</P>
 <br>
 
 ## 关于我
@@ -37,7 +43,7 @@
 
 除此之外，还有各种零零散散的技术、艺术等兴趣爱好。保持这种多元和热爱，我认为是我人生中的最大价值。这里是我(左边)和我的伴侣(右边)。
 
-![](image/20816cd21b06357e5f337790bdbdb908_eSltcj43ML.jpeg)
+<img src="image/20816cd21b06357e5f337790bdbdb908_eSltcj43ML.jpeg" width="64%"/>
 
 <br>  
 
